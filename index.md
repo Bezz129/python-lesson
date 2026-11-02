@@ -8,4 +8,6 @@ This is my website...
 
 This is a cool guitar I really want!
 
+## Pokemon in it
 
+![](https://i.redd.it/bsbucw8qvpmh1.png)
